@@ -11,9 +11,10 @@ I’m currently learning : Web development
 >
 > Javascript
 >
-> React Js
+> React Js  
+> 
 
-**Hobbies**
+> ## **Hobbies**
 > Gaming
 >
 > Watching anime
