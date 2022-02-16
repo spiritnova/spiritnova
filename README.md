@@ -1,9 +1,10 @@
 ## Hello!
 
-My name is Ibrahim Abboud
+My name is Ibrahim Abboud  
 
-- 🌱 I’m currently learning : Web development  
-**Languages**
+I’m currently learning : Web development
+
+> ## **Languages**
 > HTML
 >
 > CSS
