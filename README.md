@@ -5,12 +5,13 @@ My name is Ibrahim Abboud
 I’m currently learning : Web development
 
 > ## **Languages**
-> - HTML
-> - CSS
-> - Javascript
-> - Flask
-> - React Js  
-> - Python
+- HTML5
+- CSS3
+- Javascript
+- Flask
+- React-js
+- Python
+- Sqlite3
 
 > ## **Hobbies**
 > Gaming
