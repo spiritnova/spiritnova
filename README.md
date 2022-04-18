@@ -7,7 +7,7 @@ I’m currently learning : Web development
 ## **Languages**
 - HTML5
 - CSS3
-    - Boostrap
+    - BOOTSTRAP5
     - SCSS
 - Javascript
     - React
