@@ -4,7 +4,7 @@ My name is Ibrahim Abboud
 
 I’m currently learning : Web development
 
-> ## **Languages**
+## **Languages**
 - HTML5
 - CSS3
 - Javascript
@@ -13,15 +13,11 @@ I’m currently learning : Web development
 - Python
 - Sqlite3
 
-> ## **Hobbies**
-> Gaming
->
-> Watching anime
->
-> Hiking
->
-> Cycling
->
-> Programming
->
-> Lo-Fi music (especially japanese)
+## **Hobbies and Interests**
+- Gaming
+- Watching anime
+- Hiking
+- Cycling
+- Puzzles
+- Programming
+- Lo-Fi music (especially japanese)
