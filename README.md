@@ -6,7 +6,7 @@ I’m currently learning : Web development
 
 ## **Languages**
 - HTML5
-- CSS3
+- CSS3 <Bootstrap and SCSS>
 - Javascript
 - Flask
 - React-js
