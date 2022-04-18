@@ -10,9 +10,9 @@ I’m currently learning : Web development
     - Boostrap
     - SCSS
 - Javascript
-- Flask
-- React-js
+    - React
 - Python
+    - Python
 - Sqlite3
 
 ## **Hobbies and Interests**
