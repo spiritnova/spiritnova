@@ -12,7 +12,7 @@ I’m currently learning : Web development
 - Javascript
     - React
 - Python
-    - Python
+    - Flask
 - Sqlite3
 
 ## **Hobbies and Interests**
