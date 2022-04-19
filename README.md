@@ -13,7 +13,8 @@ I’m currently learning : Web development
     - React
 - Python
     - Flask
-- Sqlite3
+- SQL
+    - Sqlite3
 
 ## **Hobbies and Interests**
 - Gaming
