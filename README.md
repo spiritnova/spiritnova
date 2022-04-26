@@ -13,6 +13,7 @@ I’m currently learning : Web development
     - React
 - Python
     - Flask
+    - Django
 - SQL
     - Sqlite3
 
