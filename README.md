@@ -2,7 +2,7 @@
 
 My name is Ibrahim Abboud  
 
-I’m currently learning : Web development
+I’m a React web developer
 
 ## **Languages**
 - HTML5
