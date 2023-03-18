@@ -2,7 +2,7 @@
 
 My name is Ibrahim Abboud  
 
-I’m a React web developer
+I’m a Full Stack Web Developer
 
 ## **Languages**
 - HTML5
