@@ -9,7 +9,7 @@ I’m a Full Stack Web Developer
 - CSS3
     - BOOTSTRAP5
     - SCSS
-- Javascript
+- Javascript / Typescript
     - React
     - Node js
     - Express js
@@ -19,5 +19,7 @@ I’m a Full Stack Web Developer
 - SQL
     - Sqlite3
     - SQLAlchemy
+    - MySql
+    - Postgres
 - NOSQL
     - MongoDb
